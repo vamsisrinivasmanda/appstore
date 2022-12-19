@@ -1,0 +1,17 @@
+.list-apps {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 13px;
+  }
+  .app-logo {
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+  }
+  

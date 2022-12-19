@@ -1,0 +1,40 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .heading {
+    font-family: Bree Serif;
+    color: #1e293b;
+  }
+  .input {
+    background: transparent;
+    width: 250px;
+    height: 40px;
+    border-width: 0px;
+    color: #7b8794;
+  
+    font-weight: bold;
+  }
+  .tab-items {
+    display: flex;
+  }
+  .app-items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .search-conainer {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .search {
+    height: 20px;
+    width: 20px;
+  }
+  
